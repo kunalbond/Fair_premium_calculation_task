@@ -1,1 +1,1 @@
-## HUK-COBURG Coding Challenge ##
+## French Automobile insurer Dataset ##
